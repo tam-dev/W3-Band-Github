@@ -1,0 +1,15 @@
+.box {
+    color:aqua;
+    background-color: black;
+    display: flex;
+    align-content: center;
+    width: 60px;
+    height: 60px;
+    justify-content: center;
+    padding: 10px;
+    border: 10px purple dashed;
+    margin: 10px;
+}
+#anh {
+    width: 100px;
+}
